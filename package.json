@@ -1,0 +1,23 @@
+{
+  "name": "accabs-erc4337",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@wagmi/core": "^1.4.2",
+    "@zerodev/sdk": "^4.0.11",
+    "@zerodevapp/sdk": "^3.2.6",
+    "alchemy-sdk": "^2.10.1",
+    "dotenv": "^16.3.1",
+    "ethers": "^5.7.2",
+    "node": "^20.6.0",
+    "opensea-js": "^6.1.10",
+    "viem": "^1.14.0"
+  }
+}
