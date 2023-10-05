@@ -1,6 +1,6 @@
 # gasLessNftPurchase
 
-##Steps to test the code:
+## Steps to test the code:
 1. Run npm i, to install all dependencies needed by the project.
 2. Head over to [Zerodev's dashboard](https://dashboard.zerodev.app) to create a project id.
 3. Setup a gas policy as well.
